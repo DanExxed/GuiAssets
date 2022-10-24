@@ -1,0 +1,3 @@
+for i,Pack in pairs(packs) do
+game:GetService("ReplicatedStorage").EventTickets:FireServer(Pack, -5000)
+end
