@@ -1,4 +1,3 @@
-local stats = {"Coins", "Crystals", "EventTickets", "Level", "Experience"}
 for i,v in pairs(stats) do
 local args = {
    [1] = "Acid Shotgun",
